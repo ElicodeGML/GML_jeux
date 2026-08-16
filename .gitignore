@@ -1,0 +1,12 @@
+# Fichiers de cache GameMaker (INUTILES)
+cache/
+*.dms
+*.win
+*.unx
+
+# Fichiers de sauvegarde auto
+*.yy.bak
+
+# Dossiers temporaires
+.git/
+.vscode/
